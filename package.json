@@ -1,6 +1,5 @@
 {
-  "name": "vue todo",
-  "private": true,
+  "name": "vuetodo",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
